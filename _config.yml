@@ -1,0 +1,10 @@
+theme: minima
+title: "Water Week: Flowing Through St. Thomas"
+remote-theme: minima
+
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://alina-kan.github.io/water-week"
+
+include:
+  - _pages
