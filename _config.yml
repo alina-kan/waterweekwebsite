@@ -4,7 +4,7 @@ remote-theme: minima
 
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://alina-kan.github.io/water-week"
+url: "https://alina-kan.github.io/waterweekwebsite"
 
 include:
   - _pages
